@@ -60,7 +60,7 @@ export class PurchasesService {
             customer: {
                 authUserId: customer.authUserId
             },
-            pruduct: {
+            product: {
                 id: product.id,
                 title: product.title,
                 slug: product.slug
